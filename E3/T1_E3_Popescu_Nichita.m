@@ -7,5 +7,7 @@ b = randn(1,y);
 z = complex(a,b);       
      
              
-function(z);
+avg(z);
+matrix(z);
+sq(z);
 
